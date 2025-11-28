@@ -1,0 +1,7 @@
+customer_id,customer_name,join_date,customer_tier
+101,'John Smith','2022-03-15','Gold'
+102,'Sarah Johnson','2022-05-20','Silver'
+103,'Mike Brown','2022-07-10','Bronze'
+104,'Emily Davis','2022-01-05','Gold'
+105,'David Wilson','2022-09-15','Silver'
+106,'Lisa Anderson','2022-11-30','Bronze'

@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,product_id,product_name,quantity,unit_price,total_amount,category,region
+1,101,2023-01-15,201,'Laptop',2,800.00,1600.00,'Electronics','North'
+2,102,2023-01-16,202,'Mouse',5,25.00,125.00,'Electronics','South')
+3,103,2023-01-17,203,'Desk',1,300.00,300.00,'Furniture','East'
+4,101,2023-01-18,204,'Monitor',3,200.00,600.00,'Electronics','North'
+5,104,2023-01-19,205,'Chair',4,150.00,600.00,'Furniture','West'
+6,105,2023-01-20,201,'Laptop',1,800.00,800.00,'Electronics','South'
+7,102,2023-01-21,206,'Keyboard',2,75.00,150.00,'Electronics','South'
+8,106,2023-01-22,203,'Desk',2,300.00,600.00,'Furniture','North'
+9,101,2023-01-23,207,'Tablet',1,500.00,500.00,'Electronics','North'
+10,103,2023-01-24,205,'Chair',2,150.00,300.00,'Furniture','East'

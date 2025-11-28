@@ -1,0 +1,14 @@
+Question 1: Basic Aggregation
+Find total sales amount by region and category
+
+Question 2: Window Functions
+Rank customers by their total spending within each region
+
+Question 3: Date Operations
+Calculate month-over-month growth rate in sales
+
+Question 4: Complex Filtering
+Find customers who purchased more than 2 different products and spent over $1000
+
+Question 5: Data Cleaning & Transformation
+Handle missing values, create price segments (Low/Medium/High), and calculate average price by segment
