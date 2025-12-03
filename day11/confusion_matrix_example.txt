@@ -1,0 +1,26 @@
+a bank's fradu detetion ysstem analyzed 1000 credit crd transactions. 
+out of these 400 trxns were flagged sa fradulent by the system.
+in reality 350 trxns were actually fraudlent.
+among the flagged transactions 300 were truly fraudlent
+
+Confusion matrix
+h0 trxn is not fraudlent
+h1 trxn is fraudlent
+
+
+True                Negative
+
+
+
+False               Positive
+
+
+
+
+False               Negative
+
+
+
+True                    Positive
+detected fraudlent      were fradulent
+350
