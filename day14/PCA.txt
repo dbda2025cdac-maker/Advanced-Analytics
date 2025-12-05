@@ -1,0 +1,18 @@
+PCA (PRINCIPAL COMPONENT ANALYSIS)
+
+FEATURES X Variable : age pedegree ,bmi, bp, ht,wt,preg, skin 
+label Y predictions : diabetes (yes/no)
+
+supppose we built a NB / DT / LR classification model => accuracy 90%
+
+PCA:Can we reduce some features from X without loosing the prediction ability too much
+
+Find columns that are similar and 'combines' them mathematically
+exp: First Principal Component (PC1):65% contribution from glucose column , 25% contribution from age column
+10% from bmi, 
+
+if we only retain the PC1 value then we will get almost 40% accuracy
+
+PC2 => 67% 
+
+generally we stop at 90 - 95%  (industry standards)
