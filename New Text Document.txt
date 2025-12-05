@@ -1,0 +1,7 @@
+https://github.com/VeryFatBoy/clip-demo/blob/main/notebook/clip_demo.ipynb
+
+https://github.com/VeryFatBoy/clip-demo
+
+https://medium.com/@VeryFatBoy/quick-tip-build-vector-embeddings-for-video-via-python-notebook-openai-clip-809e3ce5cd17
+
+https://www.bing.com/search?q=how+to+generate+embeddings+from+a+video+and+store+it+in+vector+db&cvid=3527a9f1615b4a01a876fececb1609b7&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQNIBCTEzNDE0ajBqMagCALACAA&FORM=ANNTA1&PC=U531
