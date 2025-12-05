@@ -1,0 +1,17 @@
+Titanic
+
+1. Import this dataset into python using appropriate packages. Print top 15 rows for columns Name, Age, Pclass Embarked and Survived with no missing data. [7 Marks]
+
+2. Draw a colourful plot to depict Correlation between Passengerld, Survived, Pclass, Age, SibSp, Parch? [3 Marks]
+
+[5 Marks]
+
+3. Do an Outlier detection on Age and create a box-plot for the same.
+
+4. Find the column which has missing data in it. If yes then for any one column update the missing data with the mean of its respective "Pclass" value. [5 Marks]
+
+5. Perform an ANOVA test between fare (Dataset column Fare) and survival (Dataset column Survived). Comment on the inference of the result as well. [10 Marks]
+
+6. Perform Multivariate Analysis with any three columns of dataset with the survival (Dataset column Survived), Provide a plot if required. Comment on the inference as well. [5 Marks]
+
+7. Calculate Mean, Median, Mode, Quartile Ranges, Standard Deviation of Age for "Female" passengers?
