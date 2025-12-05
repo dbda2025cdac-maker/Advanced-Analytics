@@ -1,5 +1,5 @@
 Titanic
-
+=======
 1. Import this dataset into python using appropriate packages. Print top 15 rows for columns Name, Age, Pclass Embarked and Survived with no missing data. [7 Marks]
 
 2. Draw a colourful plot to depict Correlation between Passengerld, Survived, Pclass, Age, SibSp, Parch? [3 Marks]
